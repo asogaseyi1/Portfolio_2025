@@ -52,7 +52,7 @@ export default function Home() {
 </h2>
   <p className="text-black-700 leading-relaxed text-lg">
     I&apos;m a dedicated and curious full-stack developer with a strong foundation in both frontend and backend technologies.
-    I enjoy building responsive, user-focused applications that solve real-world problems — from intuitive user interfaces with
+    I enjoy building responsive, user-focused applications that solve real-world problems, from intuitive user interfaces with
     <span className="font-semibold text-blue-600"> React</span> and
     <span className="font-semibold text-indigo-600"> Next.js</span> to robust backend systems using
     <span className="font-semibold text-green-600"> Java</span> and
